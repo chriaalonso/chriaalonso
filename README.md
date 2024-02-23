@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs)
 
-![chriaalonso](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![chriaalonso](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriaalonso&layout=compact)
