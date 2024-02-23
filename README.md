@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriaalonso&layout=compact)
