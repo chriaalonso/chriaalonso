@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![SCSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs)
