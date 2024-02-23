@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Angular 17
 - 🌱 I’m currently learning Angular, Typescript, HTML5, SCSS, Tailwindcss
 - 💬 Ask me about ...
-- - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriaalonso)
+- 📫 How to reach me:
+  - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriaalonso)
 
 ## Tecnologias
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
