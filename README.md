@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 
 ## Tecnologias
 ![React](https://img.shields.io/badge/ReactNative-5FD5F5?logo=reacnativet&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-09D2F6?logo=react&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-09D2F6?logo=react&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Node](https://img.shields.io/badge/node-7CB803?logo=node&logoColor=black&style=for-the-badge)
+![Node](https://img.shields.io/badge/node-7CB803?logo=node&logoColor=white&style=for-the-badge)
 
 ![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs)
