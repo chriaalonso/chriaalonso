@@ -49,4 +49,4 @@ Tenho interesse em oportunidades que valorizem qualidade arquitetural, testes e 
 
 ---
 
-![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs&show_icons=true)
+![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs)
