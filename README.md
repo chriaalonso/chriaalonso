@@ -1,25 +1,52 @@
-### Hi there 👋
+<div align="center">
+    <h1>👋 Olá! Sou Christian Alonso, Engenheiro de Software Full Stack</h1>
+    <p>Especialista em construir aplicações escaláveis e de alta performance com foco em Arquitetura Limpa e Experiência do Usuário.</p>
+</div>
 
-<!--
-**chriaalonso/chriaalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
+### 🚀 Foco e Expertise
 
-- 🔭 I’m currently working on Angular 17
-- 🌱 I’m currently learning Angular, Typescript, HTML5, SCSS, Tailwindcss
-- 💬 Ask me about ...
-- 📫 How to reach me:
-  - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriaalonso)
+- 🏗️ **Arquitetura:** Aplicação de padrões **Domain-Driven Design (DDD)** e **Arquitetura Hexagonal** para sistemas robustos e modulares (SaaS).
+- 🌐 **Full Stack:** Proficiência em toda a stack JavaScript/TypeScript, do Backend escalável ao Frontend responsivo (Web/Mobile).
+- ☁️ **DevOps:** Experiência em containerização com **Docker** e orquestração básica com **Kubernetes** para CI/CD e deployment automatizado.
 
-## Tecnologias
-![React](https://img.shields.io/badge/ReactNative-5FD5F5?logo=reacnativet&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-09D2F6?logo=react&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Node](https://img.shields.io/badge/node-7CB803?logo=node&logoColor=white&style=for-the-badge)
+### 🔭 Projetos Atuais (Showcase)
 
-![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs)
+| Projeto | Descrição | Status | Tecnologias Chave |
+| :--- | :--- | :--- | :--- |
+| **Módulo de Autenticação (SEED)** | Módulo reutilizável para Login/Registro. Implementando TDD e Arquitetura Limpa para garantir a reutilização em futuros projetos. | Em Desenvolvimento | Node, TypeScript, TDD, PostGreSQL |
+| **[Nome do Projeto de Eventos]** | [Em breve] Plataforma de Gestão de Eventos demonstrando microsserviços e integração com microsserviço Python/ML para recomendações. | Planejamento | Node, React, React Native, Python, DDD, Docker |
+
+---
+
+### 🌱 Habilidades e Aprendizados
+
+- **Atualmente Trabalhando Em:** Angular 17.
+- **Forte em:** TypeScript, React, Node.js, PostGreSQL, Arquitetura de Microsserviços.
+- **Buscando:** Aprofundamento em **Kubernetes**, padrões avançados de **DDD** e Engenharia de Software.
+- **Inglês:** Leitura e compreensão técnica avançada (foco em documentação e comunicações internacionais).
+
+---
+
+### 🛠️ Minha Stack Principal
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-09D2F6?logo=react&logoColor=white&style=for-the-badge) ![React Native](https://img.shields.io/badge/ReactNative-5FD5F5?logo=reacnativet&logoColor=white&style=for-the-badge) |
+| **Backend** | ![Node](https://img.shields.io/badge/node-7CB803?logo=node&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Estilo/UI** | ![Tailwindcss](https://img.shields.co/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **DevOps/DB** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+---
+
+### 💬 Entre em Contato
+
+Tenho interesse em oportunidades que valorizem qualidade arquitetural, testes e mentalidade DevOps.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chriaalonso)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@exemplo.com)
+
+---
+
+![chriaalonso GitHub stats](https://github-readme-stats.vercel.app/api?username=chriaalonso&hide=contribs,prs&show_icons=true)
