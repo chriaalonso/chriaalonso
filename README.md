@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>👋 Olá! Sou Christian Alonso, Engenheiro de Software Full Stack</h1>
+    <h1>👋 Olá! Sou Christian A. Alonso, Engenheiro de Software Full Stack</h1>
     <p>Especialista em construir aplicações escaláveis e de alta performance com foco em Arquitetura Limpa e Experiência do Usuário.</p>
 </div>
 
